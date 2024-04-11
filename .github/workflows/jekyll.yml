@@ -12,6 +12,12 @@ permissions:
   id-token: write
 
 jobs:
+  fetch_references_update_tools:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: execute table conversion script
+        run: python scripts/table_conversion.py
   build:
     runs-on: ubuntu-latest
 

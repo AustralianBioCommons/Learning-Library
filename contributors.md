@@ -3,6 +3,6 @@ title: Contributors
 toc: false
 ---
 
-This How-to Guide would not be possible without the following contributors.
+The Learning Library would not be possible without the following contributors.
 
-{% include contributor-tiles-all.html %}
+{% include contributor-tiles-all.html custom="Johan Gustafsson, Patrick Capon, Melissa Burke, Farah Zaib Khan %}

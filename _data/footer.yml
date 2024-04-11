@@ -1,11 +1,5 @@
-# see https://github.com/AustralianBioCommons/human-omics-data-sharing-field-guide/blob/main/_data/footer.yml
-copyright: Copyright notice
-extra_line: Add other relevant information here!
+copyright: 'This site uses Cookies. We use cookies to help the website run effectively. To find out more, read our [Privacy](https://www.biocommons.org.au/privacy) and [Cookies](https://www.biocommons.org.au/cookies) statements.'
+#extra_line: Add other relevant information here!
 columns:
   - type: links
     width: 3
-    children:
-      - url_text: Home
-        url: /
-      - url_text: Contributors
-        url: /contributors
