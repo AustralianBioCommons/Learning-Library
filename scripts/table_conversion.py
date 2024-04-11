@@ -9,7 +9,7 @@ import os
 # --------- Variables ---------
 google_id = "1fkilWZmnh3P7VLEvM01I7g9shLkGGTHoT2pHsZmaCmc"
 gid = "0"
-url = f"https://docs.google.com/spreadsheets/d/{google_id}/export?format=csv&gid={gid}"
+url = f"https://docs.google.com/spreadsheets/d/1uIBItELephFZNjC4UPoegQpo1pIzY15IjOgX8q33slU/edit#gid=0"
 output_path = "_data/resource_list.yml"
 rootdir = '../pages'
 allowed_registries = ['biotools', 'fairsharing', 'tess', 'europmc']
