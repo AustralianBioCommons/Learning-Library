@@ -9,7 +9,7 @@ affiliations:
 
 ## heading 1 
 
-> Your guide content goes here!
+> Your guide content goes here! 
 
 > See the [ELIXIR Toolkit theme](https://elixir-belgium.github.io/elixir-toolkit-theme/markdown_cheat_sheet#images) for info on adding images.
 
