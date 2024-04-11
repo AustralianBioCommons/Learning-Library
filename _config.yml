@@ -34,4 +34,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-github-metadata
   - webrick
-  -jekyll-scholar
