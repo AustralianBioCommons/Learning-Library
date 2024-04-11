@@ -1,6 +1,6 @@
 ---
-title: How-to Guide landing page template
-type: template
+title: Learning Library
+type: 
 contributors: 
 description: Add a plain text description here.
 affiliations: 
@@ -9,12 +9,12 @@ affiliations:
 
 ## About 
 
-> Add 2-3 sentences here explaining the purpose of the specific guide you are creating.
+The Learning Library houses collections of training materials that have been selected by the BioCommons team. This is not an exhaustive collection, rather it is a selection of training materials that we recommend.
 
 
-## Guide sections
+## Sections
 
-> You can use this section to add navigation tiles for the pages you have created as part of your guide.
+> You can use this section to add navigation tiles for the pages you have created.
 
 
 ## Please cite this guide as follows
