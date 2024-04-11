@@ -11,7 +11,7 @@ permissions:
   pages: write
   id-token: write
 
-#jobs:
+jobs:
  # fetch_references_update_tools:
  #   runs-on: ubuntu-latest
  #   steps:
