@@ -1,8 +1,8 @@
 subitems:
   - title: About
     url: /index
-  - title: Standard example page
-    url: /example_page
+  - title: Resources
+    url: /resources
   - title: Workflow How-to Guide example pages
     subitems:
       - title: Example workflow guide page
