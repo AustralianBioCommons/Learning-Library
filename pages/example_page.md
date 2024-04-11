@@ -7,7 +7,7 @@ affiliations:
 ---
 
 
-## heading 1
+## heading 1 
 
 > Your guide content goes here!
 
