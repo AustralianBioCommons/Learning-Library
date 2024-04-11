@@ -1,5 +1,5 @@
 """
-Adapted from https://github.com/elixir-europe/rdmkit/blob/master/var/conversions.py
+Adapted from https://github.com/AustralianBioCommons/human-omics-data-sharing-field-guide/blob/main/var/tools_table_conversion.py
 """
 
 import pandas as pd
