@@ -1,9 +1,10 @@
 ---
-title: [Individual How-to Guide page]
-type: template
+title: Resources
+type: 
 contributors: 
 description: Add a plain text description here.
 affiliations: 
+datatable: true
 ---
 
 
