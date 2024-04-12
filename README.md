@@ -1,6 +1,6 @@
 ## About
 
-This is the Australian BioCommons Learning Library.
+Welcome to the Australian BioCommons Learning Library!
 
 The Library contains training materials that are sorted into collections based on broad theme. The Library is not intended to be an exhaustive resource for all bioinformatics training materials available.
 
