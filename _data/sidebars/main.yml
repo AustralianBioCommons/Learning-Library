@@ -1,14 +1,14 @@
 subitems:
   - title: About
     url: /index
-  - title: Resources
+  - title: All resources
     url: /resources
-  - title: Workflow How-to Guide example pages
+  - title: Collections by topic
     subitems:
-      - title: Example workflow guide page
-        url: /example_bioinformatics_workflow_page
-      - title: Example workflow documentation page
-        url: /example_workflow_documentation_page
+      - title: Proteomics
+        url: /proteomics-collection
+      - title: Data management
+        url: /data_management-collection
   - title: Contributors
     url: /contributors
   
