@@ -7,18 +7,15 @@ import yaml
 import os
 
 # --------- Variables ---------
-google_id = "1fkilWZmnh3P7VLEvM01I7g9shLkGGTHoT2pHsZmaCmc"
-gid = "0"
-url = f"https://docs.google.com/spreadsheets/d/1uIBItELephFZNjC4UPoegQpo1pIzY15IjOgX8q33slU/edit#gid=0"
+url = f"https://docs.google.com/spreadsheets/d/1uIBItELephFZNjC4UPoegQpo1pIzY15IjOgX8q33slU/export?format=csv&gid=0"
 output_path = "_data/resource_list.yml"
 rootdir = '../pages'
-allowed_registries = ['biotools', 'fairsharing', 'tess', 'europmc']
+allowed_registries = ['Australian BioCommons', 'EMBL-EBI', 'NCBI', 'ELIXIR Luxembourg']
 
 # --------- Converting the table ---------
 
 print(f"----> Converting google table to {output_path} started.")
-resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'id': str, 'fairsharing': str,
-                                         'biotools': str, 'tess': str, 'europmc': pd.Int64Dtype()})
+resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'related pages': str, 'description': str, 'type': pd.Int64Dtype()})
 resource_list = resource_table.to_dict("records")
 clean_resource_list = []
 for resource in resource_list:
