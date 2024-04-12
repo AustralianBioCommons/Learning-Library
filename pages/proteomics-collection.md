@@ -1,5 +1,5 @@
 ---
-title: Proteomics Collection
+title: Proteomics
 type: Collection
 contributors: 
 description: This page includes all Learning Library content related to proteomics
