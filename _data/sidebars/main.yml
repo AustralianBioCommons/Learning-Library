@@ -9,6 +9,8 @@ subitems:
         url: /proteomics-collection
       - title: Data management
         url: /data_management-collection
+  - title: Contribute
+    url:/contribute
   - title: Contributors
     url: /contributors
   
