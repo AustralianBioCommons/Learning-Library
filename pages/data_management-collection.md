@@ -1,5 +1,5 @@
 ---
-title: Data management collection
+title: Data management
 type: Collection
 contributors: 
 description: This page includes all Learning Library content related to data management
