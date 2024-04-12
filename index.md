@@ -15,21 +15,16 @@ The training materials are sorted into collections by broad topic - eg. training
 {% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
 
 
-## Collection
+## Collections
 
 The following collections are available:
 
 {% include section-navigation-tiles.html col = "1" type="Collection"%}
 
 
-## Please cite this guide as follows
-
-> [Citation information goes here]
-
-
 ## Acknowledgements
 
-> Don't delete anything from this section, only add.
+> Further acknowledgements go here
 
 This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
@@ -37,5 +32,5 @@ This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Bel
 
 ## References
 
-> Add references as needed.
+> References can go here as needed.
  
