@@ -1,9 +1,6 @@
 ---
-title: Resources
-type: 
-contributors: 
-description: Add a plain text description here.
-affiliations: 
+title: View all resources
+description: An interactive table displaying the full collection of training resources housed in the Learning Library
 datatable: true
 ---
 
