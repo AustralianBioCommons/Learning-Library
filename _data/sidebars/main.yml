@@ -10,7 +10,7 @@ subitems:
       - title: Data management
         url: /data_management-collection
   - title: Contribute
-    url:/contribute
+    url: /contribute
   - title: Contributors
     url: /contributors
   
