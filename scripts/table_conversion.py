@@ -12,7 +12,7 @@ google_id = "1uIBItELephFZNjC4UPoegQpo1pIzY15IjOgX8q33slU"
 gid = "0"
 url = f"https://docs.google.com/spreadsheets/d/{google_id}
 /export?format=csv&gid={gid}"
-output_path = "_data/resource_list.yml"
+output_path = "_data/full_resource_list.yml"
 rootdir = '../pages'
 allowed_registries = ['Australian BioCommons', 'EMBL-EBI', 'NCBI', 'ELIXIR Luxembourg']
 
