@@ -2,9 +2,9 @@
 name: Update library
 
 on:
-  push:
-  pull_request:
-    branches: [ main, master ]
+  #push:
+  #pull_request:
+    #branches: [ main, master ]
   workflow_dispatch:
 
 jobs:

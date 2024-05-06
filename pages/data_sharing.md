@@ -1,9 +1,9 @@
 ---
-title: Data management
+title: Data sharing
 type: Collection
-page_id: data_management
+page_id: data_sharing
 contributors: 
-description: This page includes all Learning Library content related to data management
+description: This page includes all Learning Library content related to data sharing
 affiliations: 
 ---
 
