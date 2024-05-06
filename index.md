@@ -11,7 +11,7 @@ affiliations:
 The Learning Library houses collections of training materials that have been selected by the BioCommons team. This is not an exhaustive collection, rather it is a selection of training materials that we recommend.
 Training materials are sorted into collections - eg. training material related to proteomics can be found in the proteomics collection. Some materials may appear in more than one collection.
 
-# [Browse the full Library catalogue here](/resources)
+### [Browse the full Library catalogue here](/resources)
 
 {% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
 
