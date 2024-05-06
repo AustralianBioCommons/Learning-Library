@@ -5,7 +5,6 @@ contributors:
 description: Add a plain text description here.
 affiliations: 
 ---
-{% include callout.html type="note" content="This site is under construction and is not intended for public use at this stage." %}
 
 ## About 
 
@@ -14,7 +13,7 @@ The training materials are sorted into collections by broad topic - eg. training
 
 {% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
 
-
+{% include callout.html type="tip" content="[Browse the full Library here](/resources)" %}
 ## Collections
 
 The following collections are available:
