@@ -18,12 +18,12 @@ allowed_providers = ['provider']
 # --------- Converting the table ---------
 
 print(f"----> Converting google table to {output_path} started.")
-resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'topics': str, 'type': str, 'provider': str})
+resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'related_pages': str, 'type': str, 'provider': str})
 resource_list = resource_table.to_dict("records")
 clean_resource_list = []
 for resource in resource_list:
-    if not pd.isna(resource['topics']):
-        category_list = resource['topics'].rsplit(sep=", ")
+    if not pd.isna(resource['related_pages']):
+        category_list = resource['related_pages'].rsplit(sep=", ")
     else:
         category_list = ""
    # registry_dict = {}
@@ -35,7 +35,7 @@ for resource in resource_list:
     clean_resource_list.append(clean_resource)
  #   clean_resource['registry'] = registry_dict
     if category_list != "":
-        clean_resource['topics'] = category_list
+        clean_resource['related_pages'] = category_list
 
 print(os.getcwd())
 with open(output_path, 'w+') as yaml_file:
