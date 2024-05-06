@@ -17,14 +17,14 @@ subitems:
             url: /data-reuse
           - title: Data sharing
             url: /data-sharing
-      - title: Genomics
-        url: /genomics
-      - title: Metabolomics
-        url: /metabolomics
-      -title: Metagenomics
-        url: /Metagenomics
-      - title: Proteomics
-        url: /proteomics-collection
+    - title: Genomics
+      url: /genomics
+    - title: Metabolomics
+      url: /metabolomics
+    - title: Metagenomics
+      url: /Metagenomics
+    - title: Proteomics
+      url: /proteomics-collection
   - title: Contact us
     url: /contact-us
   - title: Contributors
