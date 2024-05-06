@@ -1,30 +1,30 @@
 ---
-title: How-to Guide landing page template
-type: template
+title: Learning Library
+type: 
 contributors: 
 description: Add a plain text description here.
 affiliations: 
 ---
-
+{% include callout.html type="note" content="This site is under construction and is not intended for public use at this stage." %}
 
 ## About 
 
-> Add 2-3 sentences here explaining the purpose of the specific guide you are creating.
+The Learning Library houses collections of training materials that have been selected by the BioCommons team. This is not an exhaustive collection, rather it is a selection of training materials that we recommend.
+The training materials are sorted into collections by broad topic - eg. training material related to proteomics can be found in the proteomics collection. Some materials may appear in more than one collection.
+
+{% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
 
 
-## Guide sections
+## Collections
 
-> You can use this section to add navigation tiles for the pages you have created as part of your guide.
+The following collections are available:
 
-
-## Please cite this guide as follows
-
-> [Citation information goes here]
+{% include section-navigation-tiles.html col = "1" type="Collection"%}
 
 
 ## Acknowledgements
 
-> Don't delete anything from this section, only add.
+> Further acknowledgements go here
 
 This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
@@ -32,5 +32,5 @@ This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Bel
 
 ## References
 
-> Add references as needed.
+> References can go here as needed.
  
