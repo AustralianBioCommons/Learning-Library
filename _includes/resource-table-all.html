@@ -10,18 +10,14 @@
     <table class="tooltable table display">
         <thead>
             <tr class="text-nowrap">
-                <th>How-to Guide or resource {%- if include.tag -%}
+                <th>Resource {%- if include.tag -%}
                     <a data-bs-toggle="tooltip" data-bs-original-title="This is a curated list which means that not all tools or resources that exist for this topic are listed here. This is mainly because we do not intend to be a registry.">
                         <i class="fa-solid fa-info-circle"></i>
                     </a>{%- endif %}
                 </th>
                 <th>Description</th>
-                <th>Category</th>
-                <th>Links to related information {%- if include.tag -%}
-                    <a data-bs-toggle="tooltip" data-bs-original-title="Links to related information: FAIRsharing, bio.tools, TeSS, WorkflowHub, DOIs.">
-                        <i class="fa-solid fa-info-circle"></i>
-                    </a>{%- endif %}
-                </th>
+                <th>Topic(s)</th>
+                <th>Provider</th>
             </tr>
         </thead>
         <tbody>
