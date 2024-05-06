@@ -1,0 +1,269 @@
+- description: 'A tutorial with an overview of PRoteomics IDEntification (PRIDE) database,
+    how to search and download datasets from PRIDE and an introduction of PRIDE tools:
+    Proteome Xchange Submission Tool and PRIDE Inspector (to assess the quality of
+    a dataset). '
+  name: PRIDE - Quick tour
+  provider: EMBL-EBI
+  topics:
+  - Proteomics
+  - Data Sharing
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/pride-quick-tour/submitting-data-to-pride/
+- description: A webinar covering proteomics data submission process including a demo
+    for Proteome Xchange Submission Tool.
+  name: 'PRIDE database: Proteomics data submission, access and visualisation'
+  provider: EMBL-EBI
+  topics:
+  - Proteomics
+  - Data Sharing
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/pride-database-proteomics-data-submission-access-and-visualisation/
+- description: 'A webinar with an introduction to the proteomes and how to find and
+    download relevant protein datasets. It also includes a UniProt demonstration to
+    find proteomic data with user queries. '
+  name: Understanding Proteomes
+  provider: EMBL-EBI
+  topics:
+  - Proteomics
+  - Data Collection
+  - Data Reuse
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/understanding-proteomes/
+- description: 'A webinar with an introduction of ENA, INSDC agreement, the ENA data
+    and metadata model, how to structure a metagenomic study and submit metagenomics
+    data to ENA.  '
+  name: Submitting metagenomic data to ENA
+  provider: EMBL-EBI
+  topics:
+  - Metagenomics
+  - 'Data Sharing '
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/submitting-metagenomic-data-ena/
+- description: 'A workshop covering how to search and retrieve and perform analysis
+    on metagenomic sequencing data from NCBI '
+  name: An NCBI Guide to Finding and Analyzing Metagenomic Data
+  provider: NCBI
+  topics:
+  - Metagenomics
+  - Data Analysis
+  - Data Reuse
+  type: Workshop
+  url: https://www.nlm.nih.gov/ncbi/workshops/2022-10_Guide-to-Metagenomics/workshop-details.html
+- description: A tutorial with a detailed walkthrough for submitting metagenomics
+    data to ENA for analysis by MGnify, highlighting metadata standardization, the
+    use of templates like GSC MIxS for contextual information, and submission methods
+    through ENA or the MGnify browser
+  name: MGnify portal - Submitting metagenomics data to the European Nucleotide Archive
+  provider: EMBL-EBI
+  topics:
+  - Metagenomics
+  - 'Data Sharing '
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/mgnify-portal/
+- description: A tutorial offering an introduction to Metabolights, a summary of data
+    submission and retrieval processes, along with additional support resources.
+  name: Metabolights - Quick Tour
+  provider: EMBL-EBI
+  topics:
+  - Metabolomics
+  - Data Sharing
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/metabolights-quick-tour/
+- description: A webinar introducing MetaboLights, metabolomics, and the Metabolomics
+    Standards Initiative (MSI), demonstrating how to navigate the MetaboLights site
+    to explore study information and providing a brief overview of study submission.
+  name: 'MetaboLights: the home for metabolomics experiments and derived information'
+  provider: EMBL-EBI
+  topics:
+  - Metabolomics
+  - Data Sharing
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/metabolights-home-metabolomics-experiments-and-derived-information/
+- description: A webinar about open access data, examples of making BioSamples submissions
+    FAIR, open data at IntAct database and how PMC Europe is promoting open access
+    publicationg
+  name: 'Open with purpose: How and why to make your data open'
+  provider: EMBL-EBI
+  topics:
+  - Data Planning
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/open-purpose-how-and-why-make-your-data-open/
+- description: A tutorial about publicly available data and importance of licenses
+    to make the data open. Topics covered include data formats, controlled vocabularies,
+    ontologies, reporting guidelines, minimum reporting checklists and importance
+    of unique identifiers for data artefacts.
+  name: Using Publicly available data
+  provider: EMBL-EBI
+  topics:
+  - Data Collection
+  - Data Reuse
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/using-publicly-available-data/
+- description: 'A tutorial encompassing concepts of data management e.g. the data
+    management cycle, data management tools (DMPonline and Data stewardship wizard),
+    FAIRness vs Openness, benefits/challenges of data sharing, and ontologies/standards
+    (e.g. The Ontology Lookup Service (OLS) and The Experimental Factor Ontology (EFO))
+    to be used to describe/annotate data. '
+  name: Bringing data to life, Data management for the biomolecular sciences
+  provider: EMBL-EBI
+  topics:
+  - Data Planning
+  - Data Sharing
+  - Data Reuse
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/bringing-data-to-life-data-management/
+- description: 'A webinar with discussion regarding importance of sharing research
+    data and infrastructure available at EMBL-EBI to support sharing. It also describes
+    data submission process to IntAct and ComplexPortal. '
+  name: 'Open access: Data sharing and submission'
+  provider: EMBL-EBI
+  topics:
+  - Data Sharing
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/open-access-data-sharing-and-submission/
+- description: A webinar covering processes of data retrieval and submission to BioStudies.
+  name: A guide to organising data associated to a publication using BioStudies
+  provider: EMBL-EBI
+  topics:
+  - Data Sharing
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/guide-organising-data-associated-publication-using-biostudies/
+- description: '
+
+
+    A workshop teaching biological researchers how to use the command line to search
+    and fetch NCBI data, focusing on creating bash commands to download and organize
+    files and constructing search queries with the EDirect toolkit'
+  name: An Introduction to Accessing NCBI Resources on the Command Line using EDirect
+    for Biologists
+  provider: NCBI
+  topics:
+  - Data Collection
+  - Data Reuse
+  type: Workshop
+  url: https://ncbiinsights.ncbi.nlm.nih.gov/event/command-line-03-2023/
+- description: 'A workshop demonstrating effective use of python programming, BioPython
+    package and Jupyter notebooks to facilitate download, analysis and visualisation
+    of data in a reproducible fashion. '
+  name: Getting Started with NCBI Data in Python
+  provider: NCBI
+  topics:
+  - Data Collection
+  - Data Analysis
+  - Data Reuse
+  type: Workshop
+  url: https://ncbiinsights.ncbi.nlm.nih.gov/event/getting-started-with-ncbi-data-in-python-04-22/
+- description: A tutorial introducing the BioSamples database and the concept of a
+    biosample. It also provides website navigation tips, and directs users to more
+    information on accessing and downloading data from BioSamples.
+  name: BioSamples Quick tour
+  provider: EMBL-EBI
+  topics:
+  - Data Sharing
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/biosamples-quick-tour/
+- description: What metadata is and why it is important to keep track of this information
+    in biological experiments.
+  name: Describing data consistently
+  provider: EMBL-EBI
+  topics:
+  - Data Planning
+  - 'Data Sharing '
+  type: Short Video
+  url: https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/what-makes-a-good-bioinformatics-database/describing-data-consistently/
+- description: Basic tips on managing and sharing data to maximise its re-use in the
+    future.
+  name: Tips on managing and sharing data
+  provider: EMBL-EBI
+  topics:
+  - Data Planning
+  type: Guide
+  url: https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/tips-on-managing-and-sharing-data/
+- description: These slides focus on topics such as discipline-specific repositories,
+    generalist repositories, the FAIRDOM platform, and reproducible models in FAIRDOM.
+  name: Data publishing and archival
+  provider: ELIXIR Luxembourg
+  topics:
+  - Genomics
+  - Data Planning
+  type: Slides
+  url: https://zenodo.org/record/5524794
+- description: '
+
+    A workshop covering how to use AWS services like Athena to mine metadata from
+    the NCBI SRA database for dataset selection, perform sequence alignment analysis
+    with MagicBlast, and visualize aligned data in the NCBI Genome Data Viewer browser
+    application.'
+  name: An Introduction to NCBI Cloud Computing for Biologists
+  provider: NCBI
+  topics:
+  - Genomics
+  - Data Collection
+  - Data Analysis
+  - Data Reuse
+  type: Workshop
+  url: https://www.nlm.nih.gov/oet/ed/ncbi/2022_07_cloud.html
+- description: A tutorial covering the importance of data submission, metadata templates
+    like MIAME and MINSEQE, submission timelines, and submission locations for functional
+    genomics data (e.g. ArrayExpress and GEO). It also discusses secondary databases
+    like Expression Atlas.
+  name: Functional Genomics - Submitting data
+  provider: EMBL-EBI
+  topics:
+  - Genomics
+  - Data Sharing
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/functional-genomics-iii-submitting-data/
+- description: A webinar offering an overview of EGA, discussing its controlled access
+    data, the process for gaining access through the Data Access Committee, the use
+    of DUO ontology for tagging data, and a live demo of pyEGA3 for downloading permitted
+    data.
+  name: Introduction to exploring genome-phenome data with EGA
+  provider: EMBL-EBI
+  topics:
+  - Genomics
+  - Data Reuse
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/introduction-exploring-genome-phenome-data-ega/
+- description: A webinar offering a detailed guide on submitting data to the GWAS
+    Catalog, including user account setup, data format conversion, metadata provision,
+    and validation using a command-line tool, with an emphasis on explaining metadata
+    columns.
+  name: Submitting your genome wide association study data to the GWAS Catalog
+  provider: EMBL-EBI
+  topics:
+  - Genomics
+  - Data Sharing
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/submitting-your-genome-wide-association-study-data-gwas-catalog/
+- description: A webinar introducing the background of the European Nucleotide Archive
+    (ENA), data and metadata models, submission and retrieval processes, submission
+    methods, and tools for data download.
+  name: Nucleotide sequencing data submission and retrieval at the ENA
+  provider: EMBL-EBI
+  topics:
+  - Genomics
+  - Data Collection
+  - Data Sharing
+  - Data Reuse
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/nucleotide-sequencing-data-submission-and-retrieval-ena/
+- description: A webinar providing an overview of the European Variation Archive (EVA)
+    and its integration with other EBI resources, a live demo of the EVA interface
+    for accessing data via web, FTP, or API, and clarification on using SS and RS
+    IDs for variant access/reference.
+  name: Variant submission and data access at the European Variation Archive
+  provider: EMBL-EBI
+  topics:
+  - Data Sharing
+  - Data Reuse
+  type: Webinar
+  url: https://www.ebi.ac.uk/training/events/variant-submission-and-data-access-european-variation-archive/
+- description: 'A tutorial introducing ArrayExpress and describing Annotare tool and
+    MAGE-TAB spreadsheet method for data submission. '
+  name: ArrayExpress in BioStudies
+  provider: EMBL-EBI
+  topics:
+  - Data Sharing
+  type: Online tutorial
+  url: https://www.ebi.ac.uk/training/online/courses/arrayexpress-in-biostudies/#vf-tabs__section--overview
