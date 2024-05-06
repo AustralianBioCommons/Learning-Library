@@ -1,5 +1,5 @@
 
-name: Update guides
+name: Update library
 
 on:
 push:
@@ -24,14 +24,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: execute table conversion script
-        run: python scripts/guides_table_conversion.py
+        run: python scripts/table_conversion.py
 
       - name: Commit if updated
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "update guides"
+          git diff-index --quiet HEAD || git commit -m "update library"
       - name: Push if changes
         uses: ad-m/github-push-action@v0.6.0
         with:
