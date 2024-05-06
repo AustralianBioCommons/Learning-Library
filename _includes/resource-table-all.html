@@ -17,6 +17,7 @@
                 </th>
                 <th>Description</th>
                 <th>Collection(s)</th>
+                <th>Format</th>
                 <th>Provider</th>
             </tr>
         </thead>
@@ -48,6 +49,7 @@
                 {%- endfor %}
                 {%- endcapture %}
                 <td>{{related_pages}}</td>
+                <td></td>{{tool.type}}</td>
                 <td>{{tool.provider}}</td>
             </tr>
             {%- endfor %}
