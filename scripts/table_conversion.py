@@ -14,29 +14,29 @@ url = f"https://docs.google.com/spreadsheets/d/{google_id}
 /export?format=csv&gid={gid}"
 output_path = "_data/full_resource_list.yml"
 rootdir = '../pages'
-allowed_registries = ['Australian BioCommons', 'EMBL-EBI', 'NCBI', 'ELIXIR Luxembourg']
+allowed_providers = ['provider']
 
 # --------- Converting the table ---------
 
 print(f"----> Converting google table to {output_path} started.")
-resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'related pages': str, 'description': str, 'type': pd.Int64Dtype()})
+resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'topics': str, 'type': str, 'provider': str})
 resource_list = resource_table.to_dict("records")
 clean_resource_list = []
 for resource in resource_list:
-    if not pd.isna(resource['related_pages']):
-        category_list = resource['related_pages'].rsplit(sep=",")
+    if not pd.isna(resource['topics']):
+        category_list = resource['topics'].rsplit(sep=", ")
     else:
         category_list = ""
-    registry_dict = {}
-    for registry in allowed_registries:
-        if not pd.isna(resource[registry]):
-            registry_dict[registry] = resource[registry]
-        del(resource[registry])
+   # registry_dict = {}
+   # for registry in allowed_registries:
+   #     if not pd.isna(resource[registry]):
+    #        registry_dict[registry] = resource[registry]
+   #     del(resource[registry])
     clean_resource = {k: resource[k] for k in resource if not pd.isna(resource[k])}
     clean_resource_list.append(clean_resource)
-    clean_resource['registry'] = registry_dict
+ #   clean_resource['registry'] = registry_dict
     if category_list != "":
-        clean_resource['related_pages'] = category_list
+        clean_resource['topics'] = category_list
 
 print(os.getcwd())
 with open(output_path, 'w+') as yaml_file:
