@@ -19,7 +19,7 @@ Training materials are sorted into collections - eg. training material related t
 
 The following collections are available:
 
-{% include section-navigation-tiles.html col = "1" type="Collection"%}
+{% include section-navigation-tiles.html col = "3" type="Collection"%}
 
 
 ## Acknowledgements
