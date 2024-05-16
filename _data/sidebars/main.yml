@@ -26,7 +26,7 @@ subitems:
       - title: Proteomics
         url: /proteomics-collection
   - title: About
-    url:/about
+    url: /about
   - title: Contact us
     url: /contact-us
   - title: Contributors
