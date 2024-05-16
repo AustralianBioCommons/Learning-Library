@@ -21,6 +21,8 @@ Resources include videos, guides, online tutorials and recorded webinars that ca
 ### Who curates the Learning Library?
 BioCommons invites Australian researchers and service providers to recommend trusted resources in their areas of expertise. If you or your community would like to curate a new collection for the Library, please contact the BioCommons training team at [training@biocommons.org.au](mailto:training@biocommons.org.au).
 
+The different groups of people who have collaborated on each collection are listed on individual collection pages. All contributors are gratefully acknowledged on the [Contributors page.](https://patcapon39.github.io/Learning-Library-PC/contributors)
+
 ### Where else can I find learning resources?
 If you are seeking live training, please [visit the BioCommons website for upcoming events.](https://www.biocommons.org.au/webinars-workshops)
 
