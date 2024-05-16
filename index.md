@@ -11,7 +11,7 @@ Welcome to the Learning Library - a selection of recommended resources to get yo
 
 {% include section-navigation-tiles-simple.html col = "3" type="Collection"%}
 
-### [View all resources](/pages/resources)
+#### [View all resources](resources)
 
 {% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
 
