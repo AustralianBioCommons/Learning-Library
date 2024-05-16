@@ -4,10 +4,10 @@ contributors:
 description: 
 affiliations: 
 ---
-Welcome to the Learning Library!
-The Learning Library houses collections of recommended themed resources to get you started in a new topic. They are curated by the life sciences community in collaboration with the Australian BioCommons.
+Welcome to the Learning Library - a selection of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with the Australian BioCommons.
 
-## Browse the collections of recommended training resources
+## Browse the collections
+
 
 {% include section-navigation-tiles.html col = "3" type="Collection"%}
 
