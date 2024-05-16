@@ -1,7 +1,7 @@
 ---
 title: View all resources
 page_id: All_resources
-description: An interactive table displaying the full collection of training resources housed in the Learning Library
+description: An interactive table displaying the full collection of learning resources housed in the Learning Library
 datatable: true
 type: all_resources
 ---
