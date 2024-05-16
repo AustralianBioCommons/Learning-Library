@@ -2,6 +2,10 @@
 title: About
 page_id: about
 description: About the Learning Library
-type: about
 ---
-The Learning Library houses collections of training materials that have been selected by the BioCommons team. This is not an exhaustive collection, rather it is a selection of training materials that we recommend. Training materials are sorted into collections - eg. training material related to proteomics can be found in the proteomics collection. Some materials may appear in more than one collection.
+
+
+
+The Learning Library houses collections of themed resources to get you started in new topic. These recommended starting points for learning about a given topic are developed by the life sciences community in collaboration with the Australian BioCommons.
+
+These trusted resources have been curated by experts and are not intended to be a registry of all materials associated with a topic.
