@@ -1,5 +1,4 @@
 ---
-title:
 type: 
 contributors: 
 description: 
