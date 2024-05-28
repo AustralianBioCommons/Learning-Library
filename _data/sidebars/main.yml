@@ -1,5 +1,5 @@
 subitems:
-  - title: About
+  - title: Home
     url: /index
   - title: All resources
     url: /resources
@@ -25,6 +25,8 @@ subitems:
         url: /Metagenomics
       - title: Proteomics
         url: /proteomics-collection
+  - title: About
+    url: /about
   - title: Contact us
     url: /contact-us
   - title: Contributors

@@ -9,33 +9,31 @@
 ### add maintainers/contributors below and use their name in the contributors metadata section on each page they have contributed towards ###
 #############################################################################################################################################
 
-# an example contributor is included below
-# example roles include "lead", "first-author", "author", "editor", "workflow-tester"
 
 Johan Gustafsson:
     git: supernord
     email: johan@biocommons.org.au
     orcid: 0000-0002-2977-5032
-    role: author
+    role: Development
     affiliation: Australian BioCommons
 
 Patrick Capon:
     git: PatCapon39
     email: patrick@biocommons.org.au
     orcid: 0000-0002-7396-5757
-    role: author
+    role: Development
     affiliation: Australian BioCommons
 
 Farah Zaib Khan:
     git: FarahZKhan
     email: farah@biocommons.org.au
     orcid: 0000-0002-6337-3037
-    role: author
+    role: Development
     affiliation: Australian BioCommons
 
 Melissa Burke:
     git: burkemlou
     email: melissa@biocommons.org.au
     orcid: 0000-0002-5571-8664
-    role: author
+    role: Development
     affiliation: Australian BioCommons
