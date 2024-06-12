@@ -5,6 +5,8 @@ description:
 affiliations: 
 toc: false
 ---
+{% include callout.html type="important" content="The Learning Library is in beta and under active development." %}
+
 Welcome to the Learning Library - a selection of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with the Australian BioCommons.
 
 ## Browse the collections
