@@ -1,6 +1,6 @@
 ---
 title: Metabolomics
-type: Collection
+type: Topic
 page_id: metabolomics
 contributors: 
 description: This page includes all Learning Library content related to metabolomics
