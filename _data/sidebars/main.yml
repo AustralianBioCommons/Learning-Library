@@ -6,6 +6,7 @@ subitems:
   - title: Collections
     subitems:
       - title: Data management
+        url: /data_management
   - title: About
     url: /about
   - title: Contact us
