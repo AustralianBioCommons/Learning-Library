@@ -18,7 +18,7 @@ allowed_providers = ['provider']
 # --------- Converting the table ---------
 
 print(f"----> Converting google table to {output_path} started.")
-resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'related_pages': str, 'type': str, 'provider': str})
+resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'related_pages': str, 'Topics': str, 'type': str, 'provider': str})
 resource_list = resource_table.to_dict("records")
 clean_resource_list = []
 for resource in resource_list:
