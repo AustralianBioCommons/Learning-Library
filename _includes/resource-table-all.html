@@ -10,13 +10,8 @@
     <table class="tooltable table display">
         <thead>
             <tr class="text-nowrap">
-                <th>Resource {%- if include.tag -%}
-                    <a data-bs-toggle="tooltip" data-bs-original-title="The Learning Library houses collections of training materials that have been selected by the BioCommons team. This is not an exhaustive collection, rather it is a selection of training materials that we recommend.">
-                        <i class="fa-solid fa-info-circle"></i>
-                    </a>{%- endif %}
-                </th>
+                <th>Resource</th>
                 <th>Description</th>
-                <th>Collection(s)</th>
                 <th>Format</th>
                 <th>Provider</th>
             </tr>
@@ -39,13 +34,6 @@
                     </div>
                     {%- endif %}
                 </td>
-                {%- capture related_pages %}
-                {%- for tag in tool.related_pages %}
-                {%- assign related_page = site.pages | where:"page_id",tag | first %}
-                <a href="{{related_page.url | relative_url }}" data-bs-toggle="tooltip" title="{{related_page.type | replace: '_', ' ' | capitalize}}"><span class="badge default-badge">{{ related_page.title | truncate: 25 }}</span></a>
-                {%- endfor %}
-                {%- endcapture %}
-                <td>{{related_pages}}</td>
                 <td>{{tool.type}}</td>
                 <td>{{tool.provider}}</td>
             </tr>
