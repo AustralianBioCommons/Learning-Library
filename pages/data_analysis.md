@@ -1,6 +1,6 @@
 ---
 title: Data analysis
-type: Collection
+type: Topic
 page_id: data_analysis
 contributors: 
 description: 
