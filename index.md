@@ -5,7 +5,7 @@ description:
 affiliations: 
 toc: false
 ---
-Welcome to the Learning Library - a selection of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with the Australian BioCommons.
+Welcome to the Learning Library - a selection of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
 
 ## Browse the collections
 
