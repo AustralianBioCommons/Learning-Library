@@ -1,4 +1,5 @@
-## 
+## The learning library does not use topnav.yml. Use /sidebars/main.yml to adjust the navigation buttons
+
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 #subitems:
 #- title: About
