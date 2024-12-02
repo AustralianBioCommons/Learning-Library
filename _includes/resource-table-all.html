@@ -3,7 +3,6 @@
 {%- else %}
 {%- assign resources = site.data.all_content_list | add_collection  | sort_natural: "name" %}
 {%- endif %}
-{%- assign country_pages = site.pages | where_exp: "item", "item.search_exclude != true" | where_exp:"item","item.national_resources != nil" %}
 {%- unless resources.size == 0 or resources == nil %}
 <a class="visually-hidden-focusable" href='#skip-resource-table'>Skip resource table</a>
 <div class="table-responsive mt-4 mb-5">
