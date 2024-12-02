@@ -15,6 +15,7 @@ Welcome to the Learning Library - a selection of recommended resources to get yo
 #### [View all resources](resources)
 The Learning Library is under active development. Further collections are planned.
 
+
 {% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
 
 ## Acknowledgements
