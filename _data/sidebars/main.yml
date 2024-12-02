@@ -8,7 +8,7 @@ subitems:
       - title: Data management
         url: /data_management
       - title: Structural biology
-        url:/structural_biology
+        url: /structural_biology
   - title: About
     url: /about
   - title: Contact us
