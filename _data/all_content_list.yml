@@ -1,114 +1,105 @@
-- collection: data_management
+- collection:
+  - data_management
   description: 'A tutorial with an overview of PRoteomics IDEntification (PRIDE) database,
     how to search and download datasets from PRIDE and an introduction of PRIDE tools:
     Proteome Xchange Submission Tool and PRIDE Inspector (to assess the quality of
     a dataset). '
   name: PRIDE - Quick tour
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Proteomics, Data sharing
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/pride-quick-tour/submitting-data-to-pride/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar covering proteomics data submission process including a demo
     for Proteome Xchange Submission Tool.
   name: 'PRIDE database: Proteomics data submission, access and visualisation'
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Proteomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/pride-database-proteomics-data-submission-access-and-visualisation/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A webinar with an introduction to the proteomes and how to find and
     download relevant protein datasets. It also includes a UniProt demonstration to
     find proteomic data with user queries. '
   name: Understanding Proteomes
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data collection, Data reuse, Proteomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/understanding-proteomes/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A webinar with an introduction of ENA, INSDC agreement, the ENA data
     and metadata model, how to structure a metagenomic study and submit metagenomics
     data to ENA.  '
   name: Submitting metagenomic data to ENA
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Metagenomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/submitting-metagenomic-data-ena/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A workshop covering how to search and retrieve and perform analysis
     on metagenomic sequencing data from NCBI '
   name: An NCBI Guide to Finding and Analyzing Metagenomic Data
   provider: NCBI
-  related_pages:
-  - data_management
   topics: Data analysis, Data reuse, Metagenomics
   type: Workshop
   url: https://www.nlm.nih.gov/ncbi/workshops/2022-10_Guide-to-Metagenomics/workshop-details.html
-- collection: data_management
+- collection:
+  - data_management
   description: A tutorial with a detailed walkthrough for submitting metagenomics
     data to ENA for analysis by MGnify, highlighting metadata standardization, the
     use of templates like GSC MIxS for contextual information, and submission methods
     through ENA or the MGnify browser
   name: MGnify portal - Submitting metagenomics data to the European Nucleotide Archive
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Metagenomics
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/mgnify-portal/
-- collection: data_management
+- collection:
+  - data_management
   description: A tutorial offering an introduction to Metabolights, a summary of data
     submission and retrieval processes, along with additional support resources.
   name: Metabolights - Quick Tour
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Metabolomics
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/metabolights-quick-tour/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar introducing MetaboLights, metabolomics, and the Metabolomics
     Standards Initiative (MSI), demonstrating how to navigate the MetaboLights site
     to explore study information and providing a brief overview of study submission.
   name: 'MetaboLights: the home for metabolomics experiments and derived information'
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Metabolomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/metabolights-home-metabolomics-experiments-and-derived-information/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar about open access data, examples of making BioSamples submissions
     FAIR, open data at IntAct database and how PMC Europe is promoting open access
     publicationg
   name: 'Open with purpose: How and why to make your data open'
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data planning
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/open-purpose-how-and-why-make-your-data-open/
-- collection: data_management
+- collection:
+  - data_management
   description: A tutorial about publicly available data and importance of licenses
     to make the data open. Topics covered include data formats, controlled vocabularies,
     ontologies, reporting guidelines, minimum reporting checklists and importance
     of unique identifiers for data artefacts.
   name: Using Publicly available data
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data collection, data reuse
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/using-publicly-available-data/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A tutorial encompassing concepts of data management e.g. the data
     management cycle, data management tools (DMPonline and Data stewardship wizard),
     FAIRness vs Openness, benefits/challenges of data sharing, and ontologies/standards
@@ -116,31 +107,28 @@
     to be used to describe/annotate data. '
   name: Bringing data to life, Data management for the biomolecular sciences
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/bringing-data-to-life-data-management/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A webinar with discussion regarding importance of sharing research
     data and infrastructure available at EMBL-EBI to support sharing. It also describes
     data submission process to IntAct and ComplexPortal. '
   name: 'Open access: Data sharing and submission'
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/open-access-data-sharing-and-submission/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar covering processes of data retrieval and submission to BioStudies.
   name: A guide to organising data associated to a publication using BioStudies
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/guide-organising-data-associated-publication-using-biostudies/
-- collection: data_management
+- collection:
+  - data_management
   description: '
 
 
@@ -150,64 +138,58 @@
   name: An Introduction to Accessing NCBI Resources on the Command Line using EDirect
     for Biologists
   provider: NCBI
-  related_pages:
-  - data_management
   topics: Data collection, data reuse
   type: Workshop
   url: https://ncbiinsights.ncbi.nlm.nih.gov/event/command-line-03-2023/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A workshop demonstrating effective use of python programming, BioPython
     package and Jupyter notebooks to facilitate download, analysis and visualisation
     of data in a reproducible fashion. '
   name: Getting Started with NCBI Data in Python
   provider: NCBI
-  related_pages:
-  - data_management
   topics: Data collection, Data reuse, Data analysis
   type: Workshop
   url: https://ncbiinsights.ncbi.nlm.nih.gov/event/getting-started-with-ncbi-data-in-python-04-22/
-- collection: data_management
+- collection:
+  - data_management
   description: A tutorial introducing the BioSamples database and the concept of a
     biosample. It also provides website navigation tips, and directs users to more
     information on accessing and downloading data from BioSamples.
   name: BioSamples Quick tour
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/biosamples-quick-tour/
-- collection: data_management
+- collection:
+  - data_management
   description: What metadata is and why it is important to keep track of this information
     in biological experiments.
   name: Describing data consistently
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data planning, Data sharing
   type: Short Video
   url: https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/what-makes-a-good-bioinformatics-database/describing-data-consistently/
-- collection: data_management
+- collection:
+  - data_management
   description: Basic tips on managing and sharing data to maximise its re-use in the
     future.
   name: Tips on managing and sharing data
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data planning
   type: Guide
   url: https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/tips-on-managing-and-sharing-data/
-- collection: data_management
+- collection:
+  - data_management
   description: These slides focus on topics such as discipline-specific repositories,
     generalist repositories, the FAIRDOM platform, and reproducible models in FAIRDOM.
   name: Data publishing and archival
   provider: ELIXIR Luxembourg
-  related_pages:
-  - data_management
   topics: Data planning, Genomics
   type: Slides
   url: https://zenodo.org/record/5524794
-- collection: data_management
+- collection:
+  - data_management
   description: '
 
     A workshop covering how to use AWS services like Athena to mine metadata from
@@ -216,325 +198,289 @@
     application.'
   name: An Introduction to NCBI Cloud Computing for Biologists
   provider: NCBI
-  related_pages:
-  - data_management
   topics: Data collection, Data reuse, Data analysis, Genomics
   type: Workshop
   url: https://www.nlm.nih.gov/oet/ed/ncbi/2022_07_cloud.html
-- collection: data_management
+- collection:
+  - data_management
   description: A tutorial covering the importance of data submission, metadata templates
     like MIAME and MINSEQE, submission timelines, and submission locations for functional
     genomics data (e.g. ArrayExpress and GEO). It also discusses secondary databases
     like Expression Atlas.
   name: Functional Genomics - Submitting data
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Genomics
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/functional-genomics-iii-submitting-data/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar offering an overview of EGA, discussing its controlled access
     data, the process for gaining access through the Data Access Committee, the use
     of DUO ontology for tagging data, and a live demo of pyEGA3 for downloading permitted
     data.
   name: Introduction to exploring genome-phenome data with EGA
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data planning, Genomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/introduction-exploring-genome-phenome-data-ega/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar offering a detailed guide on submitting data to the GWAS
     Catalog, including user account setup, data format conversion, metadata provision,
     and validation using a command-line tool, with an emphasis on explaining metadata
     columns.
   name: Submitting your genome wide association study data to the GWAS Catalog
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Genomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/submitting-your-genome-wide-association-study-data-gwas-catalog/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar introducing the background of the European Nucleotide Archive
     (ENA), data and metadata models, submission and retrieval processes, submission
     methods, and tools for data download.
   name: Nucleotide sequencing data submission and retrieval at the ENA
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data collection, Data reuse, Data sharing, Genomics
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/nucleotide-sequencing-data-submission-and-retrieval-ena/
-- collection: data_management
+- collection:
+  - data_management
   description: A webinar providing an overview of the European Variation Archive (EVA)
     and its integration with other EBI resources, a live demo of the EVA interface
     for accessing data via web, FTP, or API, and clarification on using SS and RS
     IDs for variant access/reference.
   name: Variant submission and data access at the European Variation Archive
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing, Data reuse
   type: Webinar
   url: https://www.ebi.ac.uk/training/events/variant-submission-and-data-access-european-variation-archive/
-- collection: data_management
+- collection:
+  - data_management
   description: 'A tutorial introducing ArrayExpress and describing Annotare tool and
     MAGE-TAB spreadsheet method for data submission. '
   name: ArrayExpress in BioStudies
   provider: EMBL-EBI
-  related_pages:
-  - data_management
   topics: Data sharing
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/arrayexpress-in-biostudies/#vf-tabs__section--overview
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: The best way to get up to competency with using an interpreting AlphaFold.
     Should be done by all grad students using AF
   name: EMBL-EBI AlphaFold Guide
   provider: EMBL-EBI
-  related_pages:
-  - structural_biology
   topics: Structure prediction
   type: Online tutorial
   url: https://www.ebi.ac.uk/training/online/courses/alphafold/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: A visual walkthrough of the AlphaFold3 architecture, with more details
     and diagrams than you were probably looking for.
   name: AlphaFold3 explainer
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Structure prediction
   type: Guide
   url: https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Lists state-of-the-art and emerging tools for Biomolecular Structure
     Prediction.
   name: Biomolecular Structure Prediction Tools
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Structure prediction
   type: Guide
   url: https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: User guide for running MMseqs from the command line
   name: MMseqs2 tutorial
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://github.com/soedinglab/MMseqs2/wiki/Tutorials
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: User guide for running Hiden Markov Models of protein sequences on
     the command line
   name: HH-suite tutorial
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://github.com/soedinglab/hh-suite/wiki
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: User guide for running HMMER on the command line
   name: HMMER tutorial
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: http://hmmer.org/documentation.html
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Walkthrough guide on running RFDiffusion
   name: RFDiffusion
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://github.com/RosettaCommons/RFdiffusion
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: User guide on protein design with Rosetta
   name: Rosetta tutorial
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://docs.rosettacommons.org/docs/latest/Home
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Collection of how-to guides for protein design
   name: Pyrosetta tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://github.com/ProteinDesignLab/protein-design-tutorials
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Google Colab notebooks for running protein design
   name: ColabDesign notebooks
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://github.com/sokrypton/ColabDesign
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Molecular Dynamics simulation tutorials
   name: GROMACS tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Molecular dynamics
   type: Guide
   url: http://www.mdtutorials.com/gmx/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Molecular Dynamics simulation tutorials
   name: GROMACS tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Molecular dynamics
   type: Guide
   url: https://gromacstutorials.github.io/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Molecular Dynamics simulation tutorials
   name: LAMMPS tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Molecular dynamics
   type: Guide
   url: https://lammpstutorials.github.io/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Molecular Dynamics simulation tutorials
   name: Amber tutorial
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Molecular dynamics
   type: Guide
   url: https://ambermd.org/tutorials/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Short how-to guide on using BLAST from the command line
   name: BLAST tutorial
   provider: tinybio
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://docs.tinybio.cloud/docs/blast-tutorial
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Three short tutorials for running ColabFold
   name: ColabFold tutorial
   provider: Community member
-  related_pages:
-  - structural_biology
   topics: Structure prediction
   type: Guide
   url: https://protocolexchange.researchsquare.com/article/pex-2490/v1
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Covers basics of ssh and jupyter notebooks on a HPC
   name: Running ColabFold notebook on a HPC
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://www.jameslingford.com/blog/colabfold-hpc-ssh-howto/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Protein visualisation guides for UCSF ChimeraX
   name: ChimeraX recipes
   provider: Community member
-  related_pages:
-  - structural_biology
+  topics: Protein visualisation
   type: Guide
   url: https://rbvi.github.io/chimerax-recipes/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: ChimeraX how-to
   name: ChimeraX cavity visualisation
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://www.jameslingford.com/blog/chimerax-cavity-surfaces/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: ChimeraX how-to
   name: ChimeraX outline selected area
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Guide
   url: https://www.jameslingford.com/blog/chimerax-outlines/
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: ~1hr talks by method developers on recent breakthroughs in protein
     modelling
   name: Boston Protein Design and Modeling Club
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Webinar
   url: https://www.youtube.com/@bpdmc
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: 100 second videos on how to use various protein tools. Guides are with
     their clean proprietary interface
   name: NeuroSnap protein design videos
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://www.youtube.com/@NeurosnapInc/videos
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Talks focused on CryoEM but also computational structural biology and
     protein design
   name: Structural Biology Grid Consortium Talk Series
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://www.youtube.com/@SBGridTV/videos
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Overview of the AlphaFold pipeline by the New England Journal of Medicine
   name: AlphaFold 5 minute explainer - Medical Journal
   provider: NEJM
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://www.youtube.com/watch?v=7q8Uw3rmXyE
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Detailed and lucid talk on understanding the machine learning concepts
     behind AI protein structure prediction methods
   name: ' AlphaFold2, OpenFold, Protein Language Models and Beyond | Nazim Bouatta '
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://youtu.be/ON1ltprZKPo?si=WkZ3Y8eZfVusWUvo
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Blender tutorials for protein animations
   name: Brady Johnston Blender tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://www.youtube.com/@BradyJohnston
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Blender tutorials for protein animations
   name: Luminous Lab Blender tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://www.youtube.com/@LuminousLab
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Playlist of tutorials on how to use ChimeraX with command lines
   name: ChimeraX tutorials
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://youtube.com/playlist?list=PL4eF1KHNgDfIYSKCS3_S0PTRYtYTV9Myi&si=gBWxBbzifFmF32ln
-- collection: structural_biology
+- collection:
+  - structural_biology
   description: Talks focused on molecular dynamics simulations and computational chemistry
   name: European Centre of Excellence for Computational Biomolecular Research
   provider: Community member
-  related_pages:
-  - structural_biology
   type: Short Video
   url: https://youtube.com/@bioexcelcoe?si=5jSzsDzpBKwGQThr
