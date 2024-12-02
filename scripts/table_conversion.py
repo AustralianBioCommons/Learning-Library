@@ -36,7 +36,7 @@ for resource in resource_list:
     clean_resource_list.append(clean_resource)
  #   clean_resource['registry'] = registry_dict
     if category_list != "":
-        clean_resource['related_pages'] = category_list
+        clean_resource['collection'] = category_list
 
 print(os.getcwd())
 with open(output_path, 'w+') as yaml_file:
