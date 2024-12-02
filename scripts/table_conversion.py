@@ -7,7 +7,7 @@ import pandas as pd
 import yaml
 import os
 
-# --------- Variables ---------
+# --------- Variables - set to match your google sheet as needed ---------
 google_id = "1uIBItELephFZNjC4UPoegQpo1pIzY15IjOgX8q33slU"
 gid = "0"
 url = f"https://docs.google.com/spreadsheets/d/{google_id}/export?format=csv&gid={gid}"
@@ -18,7 +18,8 @@ allowed_providers = ['provider']
 # --------- Converting the table ---------
 
 print(f"----> Converting google table to {output_path} started.")
-resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'related_pages': str, 'type': str, 'provider': str})
+resource_table = pd.read_csv(url, dtype={'name': str, 'url': str, 'description': str, 'related_pages': str, 'Topics': str, 'type': str, 'provider': str})
+# --------- Each column header in the google sheet needs to be included in the dtype= code and defined as a string (str) ---------
 resource_list = resource_table.to_dict("records")
 clean_resource_list = []
 for resource in resource_list:
