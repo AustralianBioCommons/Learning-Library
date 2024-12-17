@@ -9,7 +9,7 @@ on:
 
 jobs:
 
-  update_guides:
+  update_library:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

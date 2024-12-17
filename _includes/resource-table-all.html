@@ -1,48 +1,46 @@
 {%- if include.tag %}
-{%- assign tools = site.data.tool_and_resource_list | add_related_pages | where:"related_pages", include.tag  | sort_natural: "name" %}
+{%- assign resources = site.data.all_content_list | add_collection | where:"collection", include.tag  | sort_natural: "name" %}
 {%- else %}
-{%- assign tools = site.data.tool_and_resource_list | add_related_pages  | sort_natural: "name" %}
+{%- assign resources = site.data.all_content_list | add_collection  | sort_natural: "name" %}
 {%- endif %}
-{%- assign country_pages = site.pages | where_exp: "item", "item.search_exclude != true" | where_exp:"item","item.national_resources != nil" %}
-{%- unless tools.size == 0 or tools == nil %}
-<a class="visually-hidden-focusable" href='#skip-tool-table'>Skip tool table</a>
+{%- unless resources.size == 0 or resources == nil %}
+<a class="visually-hidden-focusable" href='#skip-resource-table'>Skip resource table</a>
 <div class="table-responsive mt-4 mb-5">
-    <table class="tooltable table display">
+    <table class="resourcetable table display">
         <thead>
             <tr class="text-nowrap">
                 <th>Resource</th>
                 <th>Description</th>
                 <th>Topic(s)</th>
                 <th>Format</th>
-
                 <th>Provider</th>
             </tr>
         </thead>
         <tbody>
-            {%- for tool in tools %}
+            {%- for resource in resources %}
             <tr>
-                {% if tool.url %}
-                <td><a href="{{tool.url}}">{{tool.name}}</a></td>
+                {% if resource.url %}
+                <td><a href="{{resource.url}}">{{resource.name}}</a></td>
                 {%- else %}
-                <td>{{tool.name}}</td>
+                <td>{{resource.name}}</td>
                 {%- endif %}
-                <td>{{tool.description}}
-                    {%- if tool.instance_of or tool.how_to_access or instances_tool != 0 and total_county_tools != 0 and include.tag != nil %}
-                    {%- assign linked_tool = site.data.tool_and_resource_list | where:"id", tool.instance_of | first %}
+                <td>{{resource.description}}
+                    {%- if resource.instance_of or resource.how_to_access or instances_resource != 0 and total_county_resources != 0 and include.tag != nil %}
+                    {%- assign linked_resource = site.data.all_content_list | where:"id", resource.instance_of | first %}
                     <div class="d-block mt-1">
-                        {%- if tool.how_to_access %}
-                        <span class="d-inline-block" tabindex="0" data-bs-toggle="tooltip" title="{{tool.how_to_access}}"><span class="badge text-primary border border-primary"> <i class="fa-solid fa-key"></i></span></span>
+                        {%- if resource.how_to_access %}
+                        <span class="d-inline-block" tabindex="0" data-bs-toggle="resourcetip" title="{{resource.how_to_access}}"><span class="badge text-primary border border-primary"> <i class="fa-solid fa-key"></i></span></span>
                         {%- endif %}
                     </div>
                     {%- endif %}
                 </td>
-                <td>{{tool.Topics}}</td>
-                <td>{{tool.type}}</td>
-                <td>{{tool.provider}}</td>
+                <td>{{resource.topics}}</td>
+                <td>{{resource.type}}</td>
+                <td>{{resource.provider}}</td>
             </tr>
             {%- endfor %}
         </tbody>
     </table>
 </div>
 {%- endunless %}
-<div id="skip-tool-table"></div>
+<div id="skip-resource-table"></div>
