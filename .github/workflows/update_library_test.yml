@@ -2,8 +2,8 @@ name: Update library test
 
 on:
   #push:
-  #pull_request:
-    #branches: [ TtT ]
+  pull_request:
+    branches: [TtT]
   workflow_dispatch:
 
 jobs:
