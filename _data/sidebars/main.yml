@@ -9,6 +9,8 @@ subitems:
         url: /data_management
       - title: Structural biology
         url: /structural_biology
+      - title: Train the Trainer
+        url: /train_the_trainer
   - title: About
     url: /about
   - title: Contact us
