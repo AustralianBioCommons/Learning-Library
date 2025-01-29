@@ -1,7 +1,8 @@
 name: Update library test
 
 on:
-  #push:
+  push:
+    branches: [TtT]
   pull_request:
     branches: [TtT]
   workflow_dispatch:
