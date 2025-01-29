@@ -1,4 +1,4 @@
-name: Update library
+name: Update library test
 
 on:
   #push:
