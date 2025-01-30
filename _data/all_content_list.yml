@@ -485,7 +485,7 @@
   type: Short Video
   url: https://youtube.com/@bioexcelcoe?si=5jSzsDzpBKwGQThr
 - collection:
-  - train_the_trainer
+  - skills_for_trainers
   description: Discover how to plan and design engaging learning for those wanting
     to generate and analyse genomic data
   name: 'Train the Trainer: Design Genomics and Bioinformatics Training'
@@ -495,7 +495,7 @@
   type: Online course, self-paced
   url: https://www.futurelearn.com/courses/train-the-trainer-design-genomics-training
 - collection:
-  - train_the_trainer
+  - skills_for_trainers
   description: Learn about strategies to teach coding and data workshops, the basics
     of educational psychology and evidence-based teaching practices
   name: The Carpentries Instructor training
@@ -505,7 +505,7 @@
   type: Online course, live
   url: https://carpentries.org/instructor-training/
 - collection:
-  - train_the_trainer
+  - skills_for_trainers
   description: How to create and deliver lessons that work and build a teaching community
     around them
   name: Teaching Tech Together
@@ -515,7 +515,7 @@
   type: Book
   url: https://teachtogether.tech/en/index.html#
 - collection:
-  - train_the_trainer
+  - skills_for_trainers
   description: A short version and resources that align with The Carpentries.
   name: A Brief Introduction to the Carpentries Pedagogic Model
   provider: Paula Andrea Martinez (Author)
