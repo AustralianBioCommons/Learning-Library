@@ -1,5 +1,5 @@
 ---
-title: Train the Trainer
+title: Skills for Trainers
 type: Collection
 page_id: skills_for_trainers
 datatable: true
