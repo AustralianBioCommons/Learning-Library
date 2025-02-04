@@ -484,3 +484,50 @@
   provider: Community member
   type: Short Video
   url: https://youtube.com/@bioexcelcoe?si=5jSzsDzpBKwGQThr
+- collection:
+  - skills_for_trainers
+  description: Discover how to plan and design engaging learning for those wanting
+    to generate and analyse genomic data
+  name: 'Train the Trainer: Design Genomics and Bioinformatics Training'
+  provider: Future Learn
+  topics: course design and development, evaluation, andragogy, outcome-driven training,
+    active learning, online learning
+  type: Online course, self-paced
+  url: https://www.futurelearn.com/courses/train-the-trainer-design-genomics-training
+- collection:
+  - skills_for_trainers
+  description: Learn about strategies to teach coding and data workshops, the basics
+    of educational psychology and evidence-based teaching practices
+  name: The Carpentries Instructor training
+  provider: The Carpentries
+  topics: teaching skills, inclusive and accessible learning, live coding, real-time
+    feedback, concept maps
+  type: Online course, live
+  url: https://carpentries.org/instructor-training/
+- collection:
+  - skills_for_trainers
+  description: How to create and deliver lessons that work and build a teaching community
+    around them
+  name: Teaching Tech Together
+  provider: Greg Wilson (Author)
+  topics: teaching skills, lesson design, individual learning, community of practice,
+    outreach
+  type: Book
+  url: https://teachtogether.tech/en/index.html#
+- collection:
+  - skills_for_trainers
+  description: A short version and resources that align with The Carpentries.
+  name: A Brief Introduction to the Carpentries Pedagogic Model
+  provider: Paula Andrea Martinez (Author)
+  topics: learning, teaching skills, assessment, feedback, live-coding
+  type: Blog
+  url: https://orchid00.github.io/The_Carpentries_info/overview-of-carpentries-pedagogic-model
+- collection:
+  - skills_for_trainers
+  description: Experiences in teaching and learning online from members of The Carpentries
+    community
+  name: Tips for Teaching Online from The Carpentries Community
+  provider: The Carpentries
+  topics: online teaching
+  type: Blog
+  url: https://carpentries.org/blog/2020/03/tips-for-teaching-online/

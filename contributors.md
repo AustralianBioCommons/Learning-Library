@@ -6,4 +6,4 @@ BioCommons acknowledges the contributions of the people listed in individual col
 
 The Learning Library was built by the following contributors:
 
-{% include contributor-tiles-all.html custom="Johan Gustafsson, Patrick Capon, Melissa Burke, Farah Zaib Khan" %}
+{% include contributor-tiles-all.html custom="Johan Gustafsson, Patrick Capon, Melissa Burke, Farah Zaib Khan, Giorgia Mori" %}
