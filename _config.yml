@@ -10,7 +10,7 @@ topnav_title: Learning Library
 description: ""
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.5.0
 
 theme_variables:
   # biocommons blue
