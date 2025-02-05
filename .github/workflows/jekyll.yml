@@ -49,9 +49,8 @@ jobs:
           JEKYLL_BASE_PATH: ${{ steps.pages.outputs.base_path }}
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          path: ./_site
+        uses: actions/upload-artifact@v1
+        
 
   deploy:
     runs-on: ubuntu-latest
