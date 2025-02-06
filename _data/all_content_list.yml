@@ -275,6 +275,18 @@
   url: https://www.ebi.ac.uk/training/online/courses/alphafold/
 - collection:
   - structural_biology
+  description: 'Step-by-step guide to help you to understand how the AlphaFold2 algorithm
+    works and how to interpret the output data.
+
+
+    '
+  name: AlphaFold2 How-to Guide
+  provider: Australian Structural Biology Community
+  topics: Structure prediction
+  type: Guide
+  url: https://australian-structural-biology-computing.github.io/website/AlphaFold2_how_to_guide
+- collection:
+  - structural_biology
   description: A visual walkthrough of the AlphaFold3 architecture, with more details
     and diagrams than you were probably looking for.
   name: AlphaFold3 explainer
@@ -282,6 +294,15 @@
   topics: Structure prediction
   type: Guide
   url: https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/
+- collection:
+  - structural_biology
+  description: A guide to help new-comers get up to speed on presenting and sharing
+    AlphaFold models in papers.
+  name: Best practices for presenting and sharing AlphaFold models in a paper
+  provider: Australian Structural Biology Community
+  topics: Structure prediction
+  type: Guide
+  url: https://australian-structural-biology-computing.github.io/website/best-practices-alphafold
 - collection:
   - structural_biology
   description: Lists state-of-the-art and emerging tools for Biomolecular Structure
