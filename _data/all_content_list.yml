@@ -275,11 +275,8 @@
   url: https://www.ebi.ac.uk/training/online/courses/alphafold/
 - collection:
   - structural_biology
-  description: 'Step-by-step guide to help you to understand how the AlphaFold2 algorithm
+  description: Step-by-step guide to help you to understand how the AlphaFold2 algorithm
     works and how to interpret the output data.
-
-
-    '
   name: AlphaFold2 How-to Guide
   provider: Australian Structural Biology Community
   topics: Structure prediction
