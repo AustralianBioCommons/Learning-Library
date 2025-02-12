@@ -549,3 +549,205 @@
   topics: online teaching
   type: Blog
   url: https://carpentries.org/blog/2020/03/tips-for-teaching-online/
+- collection:
+  - nextflow
+  description: 'This workshop will provide you with the foundational knowledge required
+    to build Nextflow workflows. '
+  name: Hello Nextflow (SIH)
+  provider: Sydney Informatics Hub (SIH)
+  topics: nextflow pipelines, nextflow workflows
+  type: self-paced tutorial and workshop
+  url: https://sydney-informatics-hub.github.io/hello-nextflow/
+- collection:
+  - nextflow
+  description: An How-To Guide to aid beginners in developing their own Nextflow workflows
+    from a template-nf.
+  name: Template-nf user guide
+  provider: Sydney Informatics Hub (SIH)
+  topics: nextflow template
+  type: How-to Guide
+  url: https://sydney-informatics-hub.github.io/template-nf-guide/
+- collection:
+  - nextflow
+  description: 'Get started by installing Nextflow, setting up a development environment
+    with the Nextflow VS Code extension, and running your first script. '
+  name: Nextflow Docs
+  provider: Nextflow
+  topics: getting started, running and developing pipelines, software dependencies,
+    compute and storage
+  type: Documentation
+  url: https://www.nextflow.io/docs/latest/index.html
+- collection:
+  - nextflow
+  description: A collection of learning resources and Nextflow tutorials.
+  name: Nextflow community training portal
+  provider: Nextflow
+  topics: nextflow training
+  type: self-paced tutorial, interactive exercises
+  url: https://training.nextflow.io/
+- collection:
+  - nextflow
+  description: Nextflow webpage
+  name: Nextflow Homepage
+  provider: Nextflow
+  topics: documentation, training, resources and Forums
+  type: Webpage
+  url: https://nextflow.io/
+- collection:
+  - nextflow
+  description: Nextflow YouTube channel
+  name: Nextflow YouTube channel
+  provider: YouTube
+  topics: videos and podcasts
+  type: YouTube channel
+  url: https://www.youtube.com/c/Nextflow
+- collection:
+  - nextflow
+  description: This workshop will provide you with the foundational knowledge required
+    to run and customise nf-core workflows in a reproducible manner.
+  name: Reproducible workflows with nf-core
+  provider: Sydney Informatics Hub (SIH)
+  topics: nf-core
+  type: self-paced tutorial and workshop
+  url: https://sydney-informatics-hub.github.io/customising-nfcore-workshop/
+- collection:
+  - nextflow
+  description: A lesson that motivates the use of Nextflow and nf-core as development
+    tools for building and sharing reproducible data science workflows.
+  name: Introduction to Bioinformatics workflows with Nextflow and nf-core
+  provider: 'The Carpentries '
+  topics: nextflow, nf-core
+  type: self-paced tutorial
+  url: https://carpentries-incubator.github.io/workflows-nextflow/index.html
+- collection:
+  - nextflow
+  description: This tutorial shows how convert the basic rnaseq-nf pipeline to Nextflow
+    DSL-2.
+  name: nfcamp-tutorial
+  provider: GitHub
+  topics: nf-core, DSL-2
+  type: self-paced tutorial
+  url: https://github.com/nextflow-io/nfcamp-tutorial
+- collection:
+  - nextflow
+  description: This blog post describes how to build analytical pipelines using version
+    2 of the DSL (domain specific language) that the Nextflow workflow manager implements.
+  name: Building a DSL2 pipeline in Nextflow
+  provider: Anthony Underwood (Author)
+  topics: nf-core, DSL-2
+  type: blog post
+  url: https://antunderwood.gitlab.io/bioinformant-blog/posts/building_a_dsl2_pipeline_in_nextflow/
+- collection:
+  - nextflow
+  description: "A global community effort to collect a curated set of open\u2011source\
+    \ analysis pipelines built using Nextflow."
+  name: nf-core Homepage
+  provider: nf-core
+  topics: nf-core
+  type: Webpage
+  url: https://nf-co.re/
+- collection:
+  - nextflow
+  description: 'This page collects some recurring implementation patterns used in
+    Nextflow applications. '
+  name: Nextflow Patterns
+  provider: Nextflow
+  topics: nextflow implementation patterns
+  type: self-paced tutorial
+  url: https://nextflow-io.github.io/patterns/
+- collection:
+  - nextflow
+  description: Introductory training on Nextflow
+  name: Nextflow Training
+  provider: Curtin Institute of Radio Astronomy (CIRA), The Carpentries
+  topics: workflows, pipelines, best practices
+  type: self-paced tutorial
+  url: https://carpentries-incubator.github.io/Pipeline_Training_with_Nextflow/
+- collection:
+  - nextflow
+  description: Launch an nf-core pipeline on Gadi
+  name: nf-core NCI Gadi HPC Configuration
+  provider: nf-core
+  topics: nf-core, HPC configuration
+  type: self-paced tutorial
+  url: https://nf-co.re/configs/nci_gadi/
+- collection:
+  - nextflow
+  description: Launch an nf-core pipeline on Setonix
+  name: nf-core Pawsey Setonix HPC Configuration
+  provider: nf-core
+  topics: nf-core, HPC configuration
+  type: self-paced tutorial
+  url: https://nf-co.re/configs/pawsey_setonix/
+- collection:
+  - nextflow
+  description: "A section of Seqera Labs\u2019 blog dedicated to articles about Nextflow,\
+    \ a platform to share updates, tutorials, community stories, and advancements\
+    \ related to Nextflow."
+  name: The Open Science Blog
+  provider: Seqera
+  topics: seqera, nexftlow
+  type: Blog
+  url: https://seqera.io/blog/tag-nextflow/
+- collection:
+  - nextflow
+  description: The Australian BioCommons Seqera Nextflow Service webpage, providing
+    an overview of the service, its features, benefits, access information, and relevant
+    resources for researchers interested in using Nextflow for bioinformatics workflows.
+  name: The Australian Nextflow Seqera Service
+  provider: Australian BioCommons
+  topics: seqera, nexftlow
+  type: Webpage
+  url: https://www.biocommons.org.au/seqera-service
+- collection:
+  - nextflow
+  description: Recording focused on Nextflow DSL2, explaining how to use modules to
+    build more scalable, maintainable, and reusable bioinformatics workflows. It covers
+    key DSL2 concepts, structuring pipelines with modules, and best practices for
+    workflow development using nf-core standards.
+  name: DSL2 and Modules - Nextflow Workshop 2022
+  provider: Nextflow
+  topics: DSL-2, nextflow, nf-core
+  type: YouTube video
+  url: https://www.youtube.com/watch?v=6k9lWewSBYc
+- collection:
+  - nextflow
+  description: "Discussion about the advancements in Nextflow\u2019s Domain Specific\
+    \ Language version 2 (DSL2). It covers topics such as the modularization of workflows,\
+    \ enhanced code reusability, and the integration of community-driven modules,\
+    \ aiming to provide viewers with a comprehensive understanding of DSL2\u2019s\
+    \ capabilities and its application in building complex, maintainable bioinformatics\
+    \ pipelines."
+  name: Introduction to DSL2 in Nextflow
+  provider: nf-core
+  topics: DSL-2, nextflow
+  type: YouTube video
+  url: https://www.youtube.com/watch?v=I-hunuzsh6A&t=658s
+- collection:
+  - nextflow
+  description: 'A video to provide HPC users with an overview on how to develop new
+    and redevelop existing workflows using not only Nextflow but also industry accepted
+    best practices, including code modularity and reuse, rapid prototyping and deployment,
+    and platform independence. '
+  name: 'Introduction to Nextflow for Data Intensive Pipelines: Part 1'
+  provider: Pawsey Supercomputing Research Centre
+  topics: nextflow
+  type: YouTube video
+  url: https://www.youtube.com/watch?v=bIRLbYPWHoM
+- collection:
+  - nextflow
+  description: A detailed walkthrough of the pipeline code structure for the new DSL2
+    template in Nextflow.
+  name: 'DSL2: Pipeline Structure Walkthrough'
+  provider: nf-core
+  topics: DSL-2, nextflow
+  type: YouTube video
+  url: https://www.youtube.com/watch?v=0xjc7PkF1Bc
+- collection:
+  - nextflow
+  description: This is a workshop for those who are completely new to Nextflow
+  name: Hello Nextflow (Nextflow)
+  provider: Nextflow
+  topics: nextflow
+  type: self-paced tutorial
+  url: https://training.nextflow.io/hello_nextflow/
