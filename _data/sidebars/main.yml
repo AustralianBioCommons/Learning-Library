@@ -11,6 +11,8 @@ subitems:
         url: /structural_biology
       - title: Skills for Trainers
         url: /skills_for_trainers
+      - title: Nextflow
+        url: /nextflow
   - title: About
     url: /about
   - title: Contact us
