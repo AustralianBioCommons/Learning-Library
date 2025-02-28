@@ -1,10 +1,10 @@
-title: Learning Library
+title: Australian BioCommons Library
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 gtag: G-T8GWK081T9
 # Adds BioCommons technical documentation analytics tag
 
-topnav_title: Learning Library
+topnav_title: Library
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
 description: ""
