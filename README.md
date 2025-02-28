@@ -1,6 +1,6 @@
 ## About
 
-Welcome to the Australian BioCommons Learning Library!
+Welcome to the Australian BioCommons Library!
 
 The Library houses collections of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
 
