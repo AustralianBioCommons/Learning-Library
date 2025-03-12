@@ -7,7 +7,7 @@ description: About the Library
 ### Why a Library?
 Finding resources that are appropriate is hard, especially when you are unfamiliar with a topic.
 
-Researchers turn to people and organisations they trust for recommendations on where to focus their time and effort when learning about a new topic. Those who have someone ask are often provided with a small selection of resources that are known to be of high quality and relevance. The Library captures these recommendations and shares them, making the process of finding appropriate resources more efficient and equitable for all.
+Researchers turn to people and organisations they trust for recommendations on where to focus their time and effort when getting started on a new topic. Those who have someone ask are often provided with a small selection of resources that are known to be of high quality and relevance. The Library captures these recommendations and shares them, making the process of finding appropriate resources more efficient and equitable for all.
 
 ### What is the Library?
 
