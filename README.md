@@ -1,8 +1,8 @@
 ## About
 
-Welcome to the Australian BioCommons Library!
+Welcome to the Australian BioCommons Collections!
 
-The Library houses collections of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
+The Collections houses collections of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
 
 
 ## Acknowledgements
@@ -12,4 +12,4 @@ These collections were curated by groups of Australian researchers and service p
 This work is supported by [Australian BioCommons](https://www.biocommons.org.au/). BioCommons is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS) via [Bioplatforms Australia](https://bioplatforms.com/) funding.
 
 
-The Learning Library makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
+The Collections makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
