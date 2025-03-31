@@ -11,7 +11,7 @@ Welcome to The Collections - the home of selected recommended resources that hel
 
 
 {% include section-navigation-tiles-simple.html col = "3" type="Collection"%}
-<br></br>
+<br>
 **[View all resources](resources)**
 
 The Collections is under active development. Further collections are planned.
