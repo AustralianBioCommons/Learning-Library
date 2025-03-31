@@ -12,11 +12,11 @@ Welcome to The Collections - the home of selected recommended resources that hel
 
 {% include section-navigation-tiles-simple.html col = "3" type="Collection"%}
 
-#### [View all resources](resources)
+{% include callout.html type="note" content="**[View all resources](resources)**" %}#### 
+
 The Collections is under active development. Further collections are planned.
 
-
-{% include callout.html type="note" content="If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops)." %}
+If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops).
 
 ## Acknowledgements
 These collections were curated by groups of Australian researchers and service providers who were invited to recommend trusted resources in their areas of expertise. BioCommons acknowledges the contributions of the people listed in individual collections and is grateful for their commitment to sharing their knowledge with the research community.
