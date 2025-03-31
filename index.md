@@ -5,7 +5,7 @@ description:
 affiliations: 
 toc: false
 ---
-Welcome to The Collections - the home of themed collections of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
+Welcome to The Collections - the home of themed collections of recommended resources to get you started in a new topic. These collections are curated by the life sciences community in collaboration with Australian BioCommons.
 
 ## Browse the collections
 
