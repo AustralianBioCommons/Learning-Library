@@ -2,8 +2,7 @@
 
 Welcome to the Australian BioCommons Collections!
 
-The Collections houses collections of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
-
+This is the home of themed collections of recommended resources to get you started in a new topic.
 
 ## Acknowledgements
 
