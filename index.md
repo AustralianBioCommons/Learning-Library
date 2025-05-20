@@ -5,7 +5,7 @@ description:
 affiliations: 
 toc: false
 ---
-Welcome to the Library - a selection of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
+Welcome to the Australian BioCommons Community Library - a selection of recommended resources to get you started in a new topic. These themed collections are curated by the life sciences community in collaboration with Australian BioCommons.
 
 ## Browse the collections
 
@@ -14,7 +14,7 @@ Welcome to the Library - a selection of recommended resources to get you started
 
 **[View all resources](resources)**
 
-The Collections is under active development. Further collections are planned.
+The Library is under active development. Further collections are planned.
 
 If you are seeking live training, please [visit the BioCommons website for upcoming events](https://www.biocommons.org.au/webinars-workshops).
 
