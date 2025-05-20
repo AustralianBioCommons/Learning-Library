@@ -24,4 +24,4 @@ These collections were curated by groups of Australian researchers and service p
 This work is supported by [Australian BioCommons](https://www.biocommons.org.au/). BioCommons is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS) via [Bioplatforms Australia](https://bioplatforms.com/) funding.
 
 
-The Learning Library makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme).
+The Library makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme).
